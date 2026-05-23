@@ -44,7 +44,7 @@ Each skill ships with reference files (`reference/`) containing reusable
 Add this repo as a marketplace, then install the plugin:
 
 ```bash
-/plugin marketplace add <your-username>/claude-vb6-skills
+/plugin marketplace add alexcassol/claude-vb6-skills
 /plugin install claude-vb6-skills@vb6-skills
 ```
 
