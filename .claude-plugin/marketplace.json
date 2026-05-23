@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "vb6-skills",
+  "description": "Skills for maintaining and developing Visual Basic 6 codebases with Claude Code",
+  "owner": {
+    "name": "Alex Cassol de Vasconcelos"
+  },
+  "plugins": [
+    {
+      "name": "claude-vb6-skills",
+      "source": ".",
+      "description": "VB6 conventions, error handling (CSEH), ADO late binding, manual stack tracing, and utility patterns",
+      "category": "legacy",
+      "tags": ["vb6", "visual-basic-6", "legacy", "ado", "cseh"]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "claude-vb6-skills",
+  "description": "Skills for maintaining and developing Visual Basic 6 codebases. Covers language conventions, the CSEH error-handling pattern, ADO via late binding (MSSQL and PostgreSQL), manual stack tracing, and common utility patterns.",
+  "author": {
+    "name": "Alex Cassol de Vasconcelos"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vb6",
+    "visual-basic-6",
+    "legacy",
+    "ado",
+    "mssql",
+    "postgresql",
+    "cseh",
+    "stack-trace"
+  ]
+}
