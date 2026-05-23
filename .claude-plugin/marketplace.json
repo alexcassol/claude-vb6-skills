@@ -8,7 +8,10 @@
   "plugins": [
     {
       "name": "claude-vb6-skills",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "alexcassol/claude-vb6-skills"
+      },
       "description": "VB6 conventions, error handling (CSEH), ADO late binding, manual stack tracing, and utility patterns",
       "category": "legacy",
       "tags": ["vb6", "visual-basic-6", "legacy", "ado", "cseh"]
